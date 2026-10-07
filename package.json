@@ -1,0 +1,12 @@
+{
+  "name": "bothost-cloud",
+  "version": "2.0.0",
+  "private": true,
+  "description": "BotHost em arquivo único para Koyeb/Render",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node bothost.js"
+  }
+}
